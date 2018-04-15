@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find a restaurant</string>
+    <string name="permission_gps_refused">Permission Gps refused.</string>
+    <string name="request_error">Request error.</string>
+    <string name="loading">Loading…</string>
+    <string name="get_restaurant">Get restaurant.</string>
+    <string name="impossible_get_restaurant">Impossible to get restaurants.</string>
+    <string name="image_app">image of the application</string>
+</resources>
